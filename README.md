@@ -1,4 +1,4 @@
-	# Awesome  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <br>
